@@ -42,7 +42,8 @@ li:first-letter {
 }
 
 .overview {
-  margin-bottom: 200px;
+  margin-bottom: 20px;
+  text-align: left;
 }
 
 .weather-temperature img {
