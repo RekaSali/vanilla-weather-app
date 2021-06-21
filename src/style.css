@@ -84,3 +84,11 @@ li:first-letter {
 .weather-forecast-temperatures {
   font-size: 13px;
 }
+.col-2 {
+  flex: auto;
+  width: max-content;
+}
+
+.row {
+  display: flex;
+}
